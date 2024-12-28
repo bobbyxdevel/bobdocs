@@ -3,3 +3,4 @@ site_url: https://docs.bobbyxdev.xyz
 
 theme:
   name: material
+  logo: assets/logo.jpg
