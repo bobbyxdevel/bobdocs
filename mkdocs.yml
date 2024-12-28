@@ -1,4 +1,5 @@
-site_name: My Docs
+site_name: BobbyX's Library
+site_url: https://docs.bobbyxdev.xyz
 
 theme:
   name: material
